@@ -1,10 +1,12 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+[![MasterHead](https://media.istockphoto.com/vectors/programming-banner-coding-best-programming-languages-flat-concept-vector-id1185648198)]
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India and my interest in cyber security also</h3>
-<img align="right" alt="coding" witdth="300" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
+<img align="right" alt="coding" witdth="400" src="https://eportfolio.utm.my/artefact/file/download.php?file=682043&view=171850&embedded=1&text=691127">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmourya007&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmourya007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajmourya007" alt="pankajmourya007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pankajjjmourya" target="blank"><img src="https://img.shields.io/twitter/follow/pankajjjmourya?logo=twitter&style=for-the-badge" alt="pankajjjmourya" /></a> </p>
 
