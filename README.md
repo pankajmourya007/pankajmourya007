@@ -4,9 +4,12 @@
 <h3 align="center">A passionate frontend developer from India and my interest in cyber security also</h3>
 <img align="right" alt="coding" witdth="400" src="https://c.tenor.com/Rft05nnPfpgAAAAC/sewa-rumah-nak-baya-bile.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmourya007&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmourya007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmourya007&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmourya007" /><br>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajmourya007" alt="pankajmourya007" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajmourya007" alt="pankajmourya007" /></a> <br> </p>
+
 
 <p align="left"> <a href="https://twitter.com/pankajjjmourya" target="blank"><img src="https://img.shields.io/twitter/follow/pankajjjmourya?logo=twitter&style=for-the-badge" alt="pankajjjmourya" /></a> </p>
 
