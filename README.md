@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India and my interest in cyber security also</h3>
-<img align="right" alt="coding" witdth="400" src="https://c.tenor.com/Rft05nnPfpgAAAAC/sewa-rumah-nak-baya-bile.gif">
+<img align="right" alt="coding" witdth="200" src="https://c.tenor.com/Rft05nnPfpgAAAAC/sewa-rumah-nak-baya-bile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmourya007&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmourya007" /><br>
 </p>
